@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: My First Static Website
 permalink: /about/
 ---
 
-Some information about you!
+Supposed to be some information about me
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a person.  I like Data Science.  Yea..
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andrewrhosein@gmail.com](mailto:andrewrhosein2gmail.com)
